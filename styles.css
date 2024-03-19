@@ -1,8 +1,15 @@
 /* Write your CSS here! */
-.funParagraph{
-    color : green
+#mainHeading {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    color: red;
+    background-image: url("");
+    background-position: center;
+    font-family: sans-serif;
+    background-size: 100%;
 }
 
-#mainHeading {
-    color : red
+.funParagraph{
+    color: green;
 }
